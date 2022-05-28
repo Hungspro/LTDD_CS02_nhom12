@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="new_user_sign_up">New user? <b>Sign Up</b></string>
+    <string name="btlogout">logout</string>
+</resources>
